@@ -1,3 +1,4 @@
+#Functions that return different data types 
 def getInteger():
     return 42
 
